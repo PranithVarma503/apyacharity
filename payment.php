@@ -20,7 +20,7 @@ try {
         "phone"=>$Phone,
         "send_sms" => true,
         "allow_repeated_payments" =>false,
-           "redirect_url" => "http://localhost/master/redirect.php"
+           "redirect_url" => "redirect.php"
         ));
     //print_r($response);
     $pay_url=$response['longurl'];
