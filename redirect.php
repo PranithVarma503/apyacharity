@@ -61,7 +61,7 @@ require_once('vendor/autoload.php');
             }
         ?>
         <br>
-        <p><a class="btn btn-warning" target="_blank" href="https://https://apyacharity.herokuapp.com/"> Apyacharity  
+        <p><a class="btn btn-warning" target="_blank" href="https://https://fuzz503.github.io/pranithvarma"> Apyacharity  
          <i class="fa fa-window-restore "></i></a></p>
         </div>
         <br><br><br>
